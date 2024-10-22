@@ -8,3 +8,9 @@ body {
 h1 {
 	color: white;
 }
+
+.average-sans-regular {
+	font-family: "Average Sans", serif;
+	font-weight: 400;
+	font-style: normal;
+  }
