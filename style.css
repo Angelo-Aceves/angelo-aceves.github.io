@@ -2,4 +2,9 @@ body {
 	margin: 0;
 	background: #FF0000;
 	text-align: center;
+	color: white;
+}
+
+h1 {
+	color: white;
 }
